@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\project\\src\\github.com\\ariashabry\\CSharpProject\\CSharpProject.csproj": {}
+    "C:\\project\\src\\github.com\\ariashabry\\CSharpProject\\CSharpProject.csproj": {}
   },
   "projects": {
-    "c:\\project\\src\\github.com\\ariashabry\\CSharpProject\\CSharpProject.csproj": {
+    "C:\\project\\src\\github.com\\ariashabry\\CSharpProject\\CSharpProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\project\\src\\github.com\\ariashabry\\CSharpProject\\CSharpProject.csproj",
+        "projectUniqueName": "C:\\project\\src\\github.com\\ariashabry\\CSharpProject\\CSharpProject.csproj",
         "projectName": "CSharpProject",
-        "projectPath": "c:\\project\\src\\github.com\\ariashabry\\CSharpProject\\CSharpProject.csproj",
+        "projectPath": "C:\\project\\src\\github.com\\ariashabry\\CSharpProject\\CSharpProject.csproj",
         "packagesPath": "C:\\Users\\nanin\\.nuget\\packages\\",
-        "outputPath": "c:\\project\\src\\github.com\\ariashabry\\CSharpProject\\obj\\",
+        "outputPath": "C:\\project\\src\\github.com\\ariashabry\\CSharpProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nanin\\AppData\\Roaming\\NuGet\\NuGet.Config",
